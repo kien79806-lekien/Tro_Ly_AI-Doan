@@ -55,14 +55,16 @@ st.markdown(
             text-align: right;
             margin-left: auto;
         }
-        .assistant::before { 
-            content: " ";
+        .assistant::before {
+            content: "";
             display: inline-block;
-            width: 20px; /* Điều chỉnh kích thước theo nhu cầu */
-            height: 20px; /* Điều chỉnh kích thước theo nhu cầu */
-            background-image: url('https://raw.githubusercontent.com/kien79806-lekien/Tro_Ly_AI-Doan/blob/main/canbodoan.png'); /* Đường dẫn đến hình ảnh */
-            background-size: cover; /* Đảm bảo hình ảnh vừa với khu vực */
-            margin-right: 5px; /* Khoảng cách giữa biểu tượng và văn bản */
+            width: 24px;       /* chiều rộng ảnh */
+            height: 24px;      /* chiều cao ảnh */
+            margin-right: 6px; /* khoảng cách với chữ */
+            background-image: url('https://raw.githubusercontent.com/kien79806-lekien/Tro_Ly_AI-Doan/main/canbodoan.png');
+            background-size: contain;   /* co ảnh vừa khung */
+            background-repeat: no-repeat;
+            vertical-align: middle;     /* căn giữa theo chữ */
         }
     </style>
     """,

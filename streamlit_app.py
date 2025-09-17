@@ -60,7 +60,7 @@ st.markdown(
             display: inline-block;
             width: 20px; /* Điều chỉnh kích thước theo nhu cầu */
             height: 20px; /* Điều chỉnh kích thước theo nhu cầu */
-            background-image: url('https://github.com/kien79806-lekien/Tro_Ly_AI-Doan/blob/main/canbodoan.png'); /* Đường dẫn đến hình ảnh */
+            background-image: url('https://raw.githubusercontent.com/kien79806-lekien/Tro_Ly_AI-Doan/blob/main/canbodoan.png'); /* Đường dẫn đến hình ảnh */
             background-size: cover; /* Đảm bảo hình ảnh vừa với khu vực */
             margin-right: 5px; /* Khoảng cách giữa biểu tượng và văn bản */
         }

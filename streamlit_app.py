@@ -56,13 +56,13 @@ st.markdown(
             margin-left: auto;
         }
         .assistant::before { 
-        content: " ";
-        display: inline-block;
-        width: 20px; /* Điều chỉnh kích thước theo nhu cầu */
-        height: 20px; /* Điều chỉnh kích thước theo nhu cầu */
-        background-image: url('I:\10002-github\02.Tro_Ly_Doan\Tro_Ly_AI-Doan\canbodoan.png'); /* Đường dẫn đến hình ảnh */
-        background-size: cover; /* Đảm bảo hình ảnh vừa với khu vực */
-        margin-right: 5px; /* Khoảng cách giữa biểu tượng và văn bản */
+            content: " ";
+            display: inline-block;
+            width: 20px; /* Điều chỉnh kích thước theo nhu cầu */
+            height: 20px; /* Điều chỉnh kích thước theo nhu cầu */
+            background-image: url('I:\10002-github\02.Tro_Ly_Doan\Tro_Ly_AI-Doan\canbodoan.png'); /* Đường dẫn đến hình ảnh */
+            background-size: cover; /* Đảm bảo hình ảnh vừa với khu vực */
+            margin-right: 5px; /* Khoảng cách giữa biểu tượng và văn bản */
         }
     </style>
     """,

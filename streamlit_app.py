@@ -58,8 +58,8 @@ st.markdown(
         .assistant::before {
             content: "";
             display: inline-block;
-            width: 24px;       /* chiều rộng ảnh */
-            height: 24px;      /* chiều cao ảnh */
+            width: 35px;       /* chiều rộng ảnh */
+            height: 35px;      /* chiều cao ảnh */
             margin-right: 6px; /* khoảng cách với chữ */
             background-image: url('https://raw.githubusercontent.com/kien79806-lekien/Tro_Ly_AI-Doan/main/canbodoan.png');
             background-size: contain;   /* co ảnh vừa khung */

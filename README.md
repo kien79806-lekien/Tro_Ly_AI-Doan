@@ -1,5 +1,5 @@
-# 💬 Chatbot Anh Lập Trình
+# 💬 Chatbot Đoàn Thanh Niên Xã Hoa Lộc
 
-Chương trình chatbot được tạo ra từ Anh Lập Trình (https://pyan.vn/)
+Chương trình trợ lý ảo phục vụ đại hội Đoàn Xã Hoa Lộc nhiệm kỳ 2025-2030
 
 
